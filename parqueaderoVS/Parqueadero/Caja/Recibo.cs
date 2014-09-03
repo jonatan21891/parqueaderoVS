@@ -7,5 +7,6 @@ namespace parqueaderoVS.Parqueadero.Caja
 {
     public class Recibo
     {
+
     }
 }
